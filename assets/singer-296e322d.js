@@ -1,0 +1,1 @@
+import{r as i}from"./index-bfcb45f6.js";function s(t){return i("/artist/list",{params:t})}function n(t){return i("/artist/detail",{params:t})}function e(t){return i("/artist/songs",{params:t})}function a(t){return i("/artist/mv",{params:t})}export{n as a,e as b,a as c,s as g};

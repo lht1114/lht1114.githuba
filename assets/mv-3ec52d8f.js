@@ -1,0 +1,1 @@
+import{r as e}from"./index-bfcb45f6.js";function n(r){return e("/personalized/mv",{params:r})}function i(r){return e("/mv/detail",{params:r})}function a(r){return e("/mv/url",{params:r})}function o(r){return e("/mv/all",{params:r})}export{o as a,i as b,a as c,n as g};
